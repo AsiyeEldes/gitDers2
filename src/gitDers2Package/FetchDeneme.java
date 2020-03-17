@@ -3,7 +3,7 @@ package gitDers2Package;
 public class FetchDeneme {
 
 
-  System.out.println("night calispera")
+  System.out.println("git seni anladim")
 
 
 
