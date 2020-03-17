@@ -2,6 +2,6 @@ package gitDers2Package;
 
 public class FetchDeneme {
 
-  System.out.println("AHSEN-I TAKVIM)
+  System.out.println("local")
            }
 
